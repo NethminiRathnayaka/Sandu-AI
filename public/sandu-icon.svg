@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+    <linearGradient id="hairGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2d2222" />
+      <stop offset="100%" stop-color="#181313" />
+    </linearGradient>
+    <radialGradient id="eyeGrad" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" />
+      <stop offset="60%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background circle with soft glow -->
+  <circle cx="256" cy="256" r="240" fill="url(#bgGrad)" />
+  <circle cx="256" cy="256" r="230" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="6" />
+
+  <!-- Back hair -->
+  <path d="M 160 220 C 130 330 140 400 170 440 C 220 450 292 450 342 440 C 372 400 382 330 352 220 Z" fill="url(#hairGrad)" />
+
+  <!-- Body / School collar -->
+  <path d="M 180 430 Q 256 460 332 430 L 370 512 L 142 512 Z" fill="#ffffff" />
+  <path d="M 200 440 L 256 490 L 312 440 L 290 430 L 256 455 L 222 430 Z" fill="#6366f1" />
+  <!-- Hairpin / Ribbon at chest -->
+  <polygon points="244,480 256,470 268,480 260,496 256,488 252,496" fill="#ec4899" />
+
+  <!-- Neck -->
+  <path d="M 230 350 L 282 350 L 286 420 L 226 420 Z" fill="#fed7aa" />
+
+  <!-- Head / Face -->
+  <ellipse cx="256" cy="280" rx="90" ry="100" fill="#fff1e6" />
+  <path d="M 180 280 C 180 370 256 395 256 395 C 256 395 332 370 332 280 C 332 200 180 200 180 280 Z" fill="#fff1e6" />
+
+  <!-- Blushes -->
+  <ellipse cx="205" cy="320" rx="16" ry="8" fill="#fda4af" opacity="0.65" />
+  <ellipse cx="307" cy="320" rx="16" ry="8" fill="#fda4af" opacity="0.65" />
+
+  <!-- Eyes -->
+  <!-- Left Eye -->
+  <g id="left-eye">
+    <ellipse cx="215" cy="285" rx="20" ry="26" fill="url(#eyeGrad)" />
+    <circle cx="210" cy="275" r="7" fill="#ffffff" />
+    <circle cx="222" cy="295" r="3.5" fill="#ffffff" />
+    <!-- Eyelash -->
+    <path d="M 190 275 Q 215 255 238 273" fill="none" stroke="#231b1b" stroke-width="5" stroke-linecap="round" />
+    <!-- Eyebrow -->
+    <path d="M 195 248 Q 215 240 232 248" fill="none" stroke="#372f2f" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <!-- Right Eye -->
+  <g id="right-eye">
+    <ellipse cx="297" cy="285" rx="20" ry="26" fill="url(#eyeGrad)" />
+    <circle cx="292" cy="275" r="7" fill="#ffffff" />
+    <circle cx="304" cy="295" r="3.5" fill="#ffffff" />
+    <!-- Eyelash -->
+    <path d="M 274 273 Q 297 255 322 275" fill="none" stroke="#231b1b" stroke-width="5" stroke-linecap="round" />
+    <!-- Eyebrow -->
+    <path d="M 280 248 Q 297 240 317 248" fill="none" stroke="#372f2f" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <!-- Cute Nose -->
+  <circle cx="256" cy="308" r="2" fill="#d97706" />
+
+  <!-- Sweet Smile -->
+  <path d="M 244 330 Q 256 345 268 330" fill="none" stroke="#b91c1c" stroke-width="3.5" stroke-linecap="round" />
+
+  <!-- Front Hair & Bangs -->
+  <path d="M 164 260 C 160 170 210 140 256 140 C 302 140 352 170 348 260 C 330 220 310 200 290 220 C 275 190 260 210 256 225 C 248 190 230 195 218 220 C 200 200 180 225 164 260 Z" fill="url(#hairGrad)" />
+
+  <!-- Hair strands side bangs -->
+  <path d="M 166 235 Q 160 300 178 340 Q 182 280 174 240 Z" fill="url(#hairGrad)" />
+  <path d="M 346 235 Q 352 300 334 340 Q 330 280 338 240 Z" fill="url(#hairGrad)" />
+
+  <!-- Hair clip (Ribbon on left side) -->
+  <g transform="translate(185, 175) rotate(-20)">
+    <circle cx="0" cy="0" r="9" fill="#ec4899" />
+    <polygon points="-5,-4 -18,-15 -20,2" fill="#f43f5e" />
+    <polygon points="5,-4 18,-15 20,2" fill="#f43f5e" />
+    <circle cx="0" cy="0" r="4" fill="#fde047" />
+  </g>
+
+  <!-- Sparkles -->
+  <polygon points="380,130 385,145 400,150 385,155 380,170 375,155 360,150 375,145" fill="#fef08a" opacity="0.9" />
+  <polygon points="120,380 123,390 133,393 123,397 120,407 117,397 107,393 117,390" fill="#fef08a" opacity="0.8" />
+</svg>

@@ -1,0 +1,457 @@
+[
+  {
+    "id": "q1",
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "study",
+    "sanduTip": "Even opening a single flashcard today is a huge victory! Let's take that first step together~"
+  },
+  {
+    "id": "q2",
+    "text": "Small disciplines repeated with consistency every day lead to great achievements.",
+    "author": "John C. Maxwell",
+    "category": "study",
+    "sanduTip": "Consistency beats intensity every time! Just 10 minutes a day creates miracles."
+  },
+  {
+    "id": "q3",
+    "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "author": "Mahatma Gandhi",
+    "category": "study",
+    "sanduTip": "Curiosity keeps your mind shining bright! What would you like to explore today?"
+  },
+  {
+    "id": "q4",
+    "text": "The expert in anything was once a beginner.",
+    "author": "Helen Hayes",
+    "category": "study",
+    "sanduTip": "Never feel bad about getting an answer wrong. That's just your brain leveling up!"
+  },
+  {
+    "id": "q5",
+    "text": "It always seems impossible until it is done.",
+    "author": "Nelson Mandela",
+    "category": "motivation",
+    "sanduTip": "Whenever a big goal feels scary, break it into tiny bite-sized quests. You can do this!"
+  },
+  {
+    "id": "q6",
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation",
+    "sanduTip": "Don't wait for perfect conditions. Start right here, right now, and I'll cheer you on!"
+  },
+  {
+    "id": "q7",
+    "text": "Take care of your body. It's the only place you have to live.",
+    "author": "Jim Rohn",
+    "category": "fitness",
+    "sanduTip": "Remember to drink a glass of water and stretch those shoulders after long study sessions!"
+  },
+  {
+    "id": "q8",
+    "text": "A one hour workout is 4% of your day. No excuses.",
+    "author": "Unknown",
+    "category": "fitness",
+    "sanduTip": "Even a 15-minute brisk walk lifts your mood and clears mental fog!"
+  },
+  {
+    "id": "q9",
+    "text": "Peace comes from within. Do not seek it without.",
+    "author": "Buddha",
+    "category": "mindfulness",
+    "sanduTip": "Take three deep breaths with me right now: Inhale peace... Exhale stress~"
+  },
+  {
+    "id": "q10",
+    "text": "Quiet the mind, and the soul will speak.",
+    "author": "Ma Jaya Sati Bhagavati",
+    "category": "mindfulness",
+    "sanduTip": "Give yourself permission to pause. Rest is an essential part of productive learning."
+  },
+  {
+    "id": "q11",
+    "text": "Action is the foundational key to all success.",
+    "author": "Pablo Picasso",
+    "category": "motivation",
+    "sanduTip": "Thoughts become reality when you move your hands and take action!"
+  },
+  {
+    "id": "q12",
+    "text": "Success is the sum of small efforts, repeated day in and day out.",
+    "author": "Robert Collier",
+    "category": "study",
+    "sanduTip": "Our SM-2 spaced repetition algorithm will make sure those daily efforts stick forever!"
+  },
+  {
+    "id": "q13",
+    "text": "You do not have to be extreme, just consistent.",
+    "author": "Anonymous",
+    "category": "fitness",
+    "sanduTip": "A little stretch or a gentle stroll today keeps your streak alive and well!"
+  },
+  {
+    "id": "q14",
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "category": "mindfulness",
+    "sanduTip": "Tell yourself: 'I am capable, I am focused, and I am getting better every day!'"
+  },
+  {
+    "id": "q15",
+    "text": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "motivation",
+    "sanduTip": "I already believe in you 100%! Now it's your turn to trust your potential."
+  },
+  {
+    "id": "q16",
+    "text": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "category": "study",
+    "sanduTip": "Every new vocabulary word you master is a coin saved in your future treasure chest!"
+  },
+  {
+    "id": "q17",
+    "text": "Strength does not come from physical capacity. It comes from an indomitable will.",
+    "author": "Mahatma Gandhi",
+    "category": "fitness",
+    "sanduTip": "Push through the last minute of your workout! Your inner willpower is unmatched."
+  },
+  {
+    "id": "q18",
+    "text": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "motivation",
+    "sanduTip": "Hard quiz questions aren't traps; they're shining golden opportunities to grow!"
+  },
+  {
+    "id": "q19",
+    "text": "Smile, breathe, and go slowly.",
+    "author": "Thich Nhat Hanh",
+    "category": "mindfulness",
+    "sanduTip": "No need to rush through life. Breathe deeply and enjoy this very moment."
+  },
+  {
+    "id": "q20",
+    "text": "Continuous improvement is better than delayed perfection.",
+    "author": "Mark Twain",
+    "category": "study",
+    "sanduTip": "Don't wait for your study notes to look flawless. Just start reviewing!"
+  },
+  {
+    "id": "q21",
+    "text": "Your only limit is you.",
+    "author": "Anonymous",
+    "category": "fitness",
+    "sanduTip": "Your body can handle almost anything; it's your mind you have to convince!"
+  },
+  {
+    "id": "q22",
+    "text": "The roots of education are bitter, but the fruit is sweet.",
+    "author": "Aristotle",
+    "category": "study",
+    "sanduTip": "Struggling with a difficult chapter? Just think of how sweet the mastery will taste!"
+  },
+  {
+    "id": "q23",
+    "text": "Do something today that your future self will thank you for.",
+    "author": "Sean Patrick Flanery",
+    "category": "motivation",
+    "sanduTip": "Your future self is smiling right now seeing the effort you put in today!"
+  },
+  {
+    "id": "q24",
+    "text": "Energy flows where attention goes.",
+    "author": "Tony Robbins",
+    "category": "mindfulness",
+    "sanduTip": "Close those extra browser tabs, put phone on silent, and let's enter flow mode!"
+  },
+  {
+    "id": "q25",
+    "text": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb (七転び八起き)",
+    "category": "motivation",
+    "sanduTip": "Missed a goal or got a card wrong? Brush off the dust and try again with a smile!"
+  },
+  {
+    "id": "q26",
+    "text": "Fitness is not about being better than someone else. It’s about being better than you were yesterday.",
+    "author": "Khloe Kardashian",
+    "category": "fitness",
+    "sanduTip": "Compare yourself only to your past self. Every extra step is personal progress!"
+  },
+  {
+    "id": "q27",
+    "text": "Education is the passport to the future.",
+    "author": "Malcolm X",
+    "category": "study",
+    "sanduTip": "Pack your mental suitcase with knowledge, and go explore the world!"
+  },
+  {
+    "id": "q28",
+    "text": "Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.",
+    "author": "Thich Nhat Hanh",
+    "category": "mindfulness",
+    "sanduTip": "Feeling anxious? Put one hand on your chest and feel your steady heartbeat."
+  },
+  {
+    "id": "q29",
+    "text": "The harder you work for something, the greater you’ll feel when you achieve it.",
+    "author": "Anonymous",
+    "category": "motivation",
+    "sanduTip": "I'll be right here with confetti ready when you reach your target milestone!"
+  },
+  {
+    "id": "q30",
+    "text": "Motivation is what gets you started. Habit is what keeps you going.",
+    "author": "Jim Ryun",
+    "category": "fitness",
+    "sanduTip": "Build small rituals: log your steps, review 5 cards, drink water. Easy habits win!"
+  },
+  {
+    "id": "q31",
+    "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+    "author": "Benjamin Franklin",
+    "category": "study",
+    "sanduTip": "Active recall with flashcards involves your brain actively, locking knowledge in!"
+  },
+  {
+    "id": "q32",
+    "text": "Be kind whenever possible. It is always possible.",
+    "author": "Dalai Lama",
+    "category": "mindfulness",
+    "sanduTip": "Be kind to others, and don't forget to be kind and gentle with yourself too!"
+  },
+  {
+    "id": "q33",
+    "text": "Hard days are what make you stronger.",
+    "author": "Aly Raisman",
+    "category": "fitness",
+    "sanduTip": "When workout feels heavy, remind yourself that diamonds are made under pressure!"
+  },
+  {
+    "id": "q34",
+    "text": "There are no shortcuts to any place worth going.",
+    "author": "Beverly Sills",
+    "category": "study",
+    "sanduTip": "Enjoy the journey of learning step-by-step. Each lesson builds your character!"
+  },
+  {
+    "id": "q35",
+    "text": "Don’t watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "motivation",
+    "sanduTip": "Tick-tock, tick-tock! Stay focused on your current task and watch magic happen."
+  },
+  {
+    "id": "q36",
+    "text": "Almost everything will work again if you unplug it for a few minutes, including you.",
+    "author": "Anne Lamott",
+    "category": "mindfulness",
+    "sanduTip": "A quick 5-minute break away from screens refreshes your mental energy like new!"
+  },
+  {
+    "id": "q37",
+    "text": "Sweat is just fat crying.",
+    "author": "Unknown",
+    "category": "fitness",
+    "sanduTip": "Work up a healthy sweat today and celebrate your heart pumping with vitality!"
+  },
+  {
+    "id": "q38",
+    "text": "Learning is never done without errors and defeat.",
+    "author": "Vladimir Lenin",
+    "category": "study",
+    "sanduTip": "Every error points directly to what you're about to master next!"
+  },
+  {
+    "id": "q39",
+    "text": "Doubt kills more dreams than failure ever will.",
+    "author": "Suzy Kassem",
+    "category": "motivation",
+    "sanduTip": "Silence that inner critic! You have so much brilliance waiting to shine."
+  },
+  {
+    "id": "q40",
+    "text": "The body achieves what the mind believes.",
+    "author": "Napoleon Hill",
+    "category": "fitness",
+    "sanduTip": "Visualize completing your workout, and your legs will follow effortlessly!"
+  },
+  {
+    "id": "q41",
+    "text": "Present moment, wonderful moment.",
+    "author": "Thich Nhat Hanh",
+    "category": "mindfulness",
+    "sanduTip": "Yesterday is a memory, tomorrow is a dream. Right here is where your power lives."
+  },
+  {
+    "id": "q42",
+    "text": "Knowledge will bring you the opportunity to make a difference.",
+    "author": "Claire Fagin",
+    "category": "study",
+    "sanduTip": "Your learning isn't just for you—it empowers you to uplift everyone around you!"
+  },
+  {
+    "id": "q43",
+    "text": "Every strike brings me closer to the next home run.",
+    "author": "Babe Ruth",
+    "category": "motivation",
+    "sanduTip": "Keep taking swings! Each attempt gets you calibrated for a big win."
+  },
+  {
+    "id": "q44",
+    "text": "If you want something you've never had, you must be willing to do something you've never done.",
+    "author": "Thomas Jefferson",
+    "category": "fitness",
+    "sanduTip": "Try a new exercise or add 500 steps to your daily goal today!"
+  },
+  {
+    "id": "q45",
+    "text": "Surrender to what is. Say 'yes' to life and see how life suddenly starts working for you.",
+    "author": "Eckhart Tolle",
+    "category": "mindfulness",
+    "sanduTip": "Release tension in your jaw and shoulders. Accept this moment with grace."
+  },
+  {
+    "id": "q46",
+    "text": "The beautiful thing about learning is that no one can take it away from you.",
+    "author": "B.B. King",
+    "category": "study",
+    "sanduTip": "What you store in your mind is yours forever. Keep filling it with gems!"
+  },
+  {
+    "id": "q47",
+    "text": "You are never too old to set another goal or to dream a new dream.",
+    "author": "C.S. Lewis",
+    "category": "motivation",
+    "sanduTip": "Every sunrise is a fresh invitation to reinvent yourself. Let's make today count!"
+  },
+  {
+    "id": "q48",
+    "text": "A champion is someone who gets up when they can't.",
+    "author": "Jack Dempsey",
+    "category": "fitness",
+    "sanduTip": "When fatigue kicks in, that extra rep is where true champions are forged!"
+  },
+  {
+    "id": "q49",
+    "text": "Simplicity is the keynote of all true elegance.",
+    "author": "Coco Chanel",
+    "category": "mindfulness",
+    "sanduTip": "Declutter your study desk and your mind will immediately feel clearer!"
+  },
+  {
+    "id": "q50",
+    "text": "Curiosity is the wick in the candle of learning.",
+    "author": "William Arthur Ward",
+    "category": "study",
+    "sanduTip": "Ask 'why' and 'how' often. It keeps that flame of discovery dancing bright!"
+  },
+  {
+    "id": "q51",
+    "text": "I can and I will. Watch me.",
+    "author": "Carrie Green",
+    "category": "motivation",
+    "sanduTip": "Say this aloud with a confident posture! I'm cheering right behind you!"
+  },
+  {
+    "id": "q52",
+    "text": "Look in the mirror. That’s your competition.",
+    "author": "John Assaraf",
+    "category": "fitness",
+    "sanduTip": "Give your reflection a wink and say: 'Today, we're beating yesterday's record!'"
+  },
+  {
+    "id": "q53",
+    "text": "In the midst of movement and chaos, keep stillness inside of you.",
+    "author": "Deepak Chopra",
+    "category": "mindfulness",
+    "sanduTip": "Like the calm eye of a storm, maintain your inner center amid busy schedules."
+  },
+  {
+    "id": "q54",
+    "text": "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.",
+    "author": "Brian Herbert",
+    "category": "study",
+    "sanduTip": "Choosing to study today shows your amazing dedication. Keep shining!"
+  },
+  {
+    "id": "q55",
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe",
+    "category": "motivation",
+    "sanduTip": "Perfection is the enemy of progress. Small, simple steps create masterpieces."
+  },
+  {
+    "id": "q56",
+    "text": "Good things come to those who sweat.",
+    "author": "Anonymous",
+    "category": "fitness",
+    "sanduTip": "Grab your water bottle and let's get those endorphins flowing happily!"
+  },
+  {
+    "id": "q57",
+    "text": "Nothing can bring you peace but yourself.",
+    "author": "Ralph Waldo Emerson",
+    "category": "mindfulness",
+    "sanduTip": "You hold the master key to your tranquility. Choose calm over chaos today."
+  },
+  {
+    "id": "q58",
+    "text": "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.",
+    "author": "Richard Feynman",
+    "category": "study",
+    "sanduTip": "Follow your fun and curiosity! Learning becomes effortless when you enjoy it."
+  },
+  {
+    "id": "q59",
+    "text": "Don't count the days, make the days count.",
+    "author": "Muhammad Ali",
+    "category": "motivation",
+    "sanduTip": "Fill today with small victories, kind thoughts, and energized study sessions!"
+  },
+  {
+    "id": "q60",
+    "text": "Respect your body when it asks for a break. Rest is work too.",
+    "author": "Anonymous",
+    "category": "fitness",
+    "sanduTip": "Sleep restores muscles and consolidates memories in your brain. Sleep well tonight!"
+  },
+  {
+    "id": "q61",
+    "text": "Within you there is a stillness and a sanctuary to which you can retreat at any time.",
+    "author": "Hermann Hesse",
+    "category": "mindfulness",
+    "sanduTip": "Close your eyes for 30 seconds and find that peaceful sanctuary within."
+  },
+  {
+    "id": "q62",
+    "text": "Wisdom begins with wonder.",
+    "author": "Socrates",
+    "category": "study",
+    "sanduTip": "Never stop wondering about the universe and how wondrous things are!"
+  },
+  {
+    "id": "q63",
+    "text": "Great things never come from comfort zones.",
+    "author": "Anonymous",
+    "category": "motivation",
+    "sanduTip": "Step slightly outside your comfort bubble today. That's where you grow!"
+  },
+  {
+    "id": "q64",
+    "text": "Drink more water. Your brain and body will thank you.",
+    "author": "SANDU",
+    "category": "fitness",
+    "sanduTip": "Hydration is your secret superpower for razor-sharp focus and stamina!"
+  },
+  {
+    "id": "q65",
+    "text": "Breathe in love, breathe out gratitude.",
+    "author": "SANDU",
+    "category": "mindfulness",
+    "sanduTip": "I am so grateful to be your companion on this study and wellness adventure~"
+  }
+]

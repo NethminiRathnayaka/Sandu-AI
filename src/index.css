@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-accent-500: #6366f1;
+  --color-accent-600: #4f46e5;
+  --color-accent-glow: rgba(99, 102, 241, 0.35);
+}
+
+/* Smooth layout and transitions */
+html, body {
+  scroll-behavior: smooth;
+  font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+}
+
+/* Sinhala & Tamil script optimizations to avoid line-height clipping */
+:lang(si), [lang="si"] {
+  font-family: 'Noto Sans Sinhala', sans-serif;
+  line-height: 1.6;
+}
+
+:lang(ta), [lang="ta"] {
+  font-family: 'Noto Sans Tamil', sans-serif;
+  line-height: 1.6;
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.3);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.5);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
